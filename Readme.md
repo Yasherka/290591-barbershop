@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Kristina Meshcheryakova](https://up.htmlacademy.ru/htmlcss/18/user/290591).
+* Преподаватель: Max Pushkarev
 
 ---
 
